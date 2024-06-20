@@ -1,2 +1,2 @@
 # DeepInsight
-Understanding the internal operation principles and parameter learning of a deep learning framework.
+This is a simplified version of the deep learning framework library based on Python and numpy implementation
